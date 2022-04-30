@@ -10,6 +10,7 @@
 
 _Domains_
 
+- [AR](https://github.com/GitHub-Campus-Community-MITWPU/Resource-Master#ar)
 - [Data Science](https://github.com/GitHub-Campus-Community-MITWPU/Resource-Master#data-science)
 - [App Dev](https://github.com/GitHub-Campus-Community-MITWPU/Resource-Master#app-dev)
 - [Web Dev](https://github.com/GitHub-Campus-Community-MITWPU/Resource-Master#web-dev)
@@ -24,18 +25,45 @@ _Languages_
 - [JavaScript](https://github.com/GitHub-Campus-Community-MITWPU/Resource-Master#javascript)
 - [Dart](https://github.com/GitHub-Campus-Community-MITWPU/Resource-Master#dart)
 
+### AR
+
+- [Augmented Reality - From begining](https://www.notion.so/Augmented-Reality-d49a48aa19a04319b5cd94ee94127435)
+
 ### Data Science
 
 - [Data Science - Blogs](https://github.com/rushter/data-science-blogs)
+- [ML Coursera Andrew Yun - pre-requisite](https://www.coursera.org/learn/machine-learning#syllabus)
+
+- [AI introduction](https://www.udemy.com/course/artificial-intelligence-a-complete-introduction/)
+
+- [Basics of Python](https://www.udemy.com/course/master-python-programming-a-to-z/)
 
 ### App Dev
 
+- [App Dev - From begining](https://www.notion.so/App-Dev-5ee9cb6c65e44f3a8ee17a1660935b41)
+- [Android Studio's official documentation](https://developer.android.com/studio)
+
+- [Android app development masterclass](https://youtu.be/fis26HvvDII)
+
+- [Creating First Application In Android Studio in 2021](https://youtu.be/p0ItPcqqXog)
+
+- [Connecting Android to Firebase Database](https://youtu.be/lnidtzL71ZA)
+
+- [Uploading your project on GitHub repository](https://youtu.be/-dAr6VnmomM)
+
 - [Flutter - GitHub Resources](https://github.com/Solido/awesome-flutter)
+
 - [Flutter - Community help](https://flutterawesome.com/)
+
 - [Flutter - Video Channel](https://www.youtube.com/c/JohannesMilke/videos)
+
 - [Flutter - Video Channel](https://www.youtube.com/c/HelloCodepur/videos)
 
+- [Flutter personally compiled doc](https://docs.google.com/document/d/1GX0tFiRqVhzrFs0WZpOgZkRFRSCIHalAxTSk7ap5OVI/edit)
+
 ### Web Dev
+
+- [Web Dev - From begining](https://www.notion.so/Web-Dev-601bec0b261a4458b68812d03736ae07)
 
 - [HTML](https://www.w3schools.com/html/)
 
@@ -51,7 +79,12 @@ _Languages_
 
 ### Cyber Security
 
-[Beginner Hacker - Video Playlist](https://youtube.com/playlist?list=PLBf0hzazHTGMh2fe2MFf3lCgk0rKmS2by)
+- [picoCTF](https://picoctf.org/)
+- [OverTheWire](https://overthewire.org/wargames/bandit/)
+- [HackThisSite](https://www.hackthissite.org/)
+- [Cyber Security - From begining](https://www.notion.so/Cyber-Security-5a0525f1d3684b46b44018140a26d605)
+
+- [Beginner Hacker - Video Playlist](https://youtube.com/playlist?list=PLBf0hzazHTGMh2fe2MFf3lCgk0rKmS2by)
 
 ### Block Chain
 
